@@ -24,7 +24,7 @@ L’idée centrale de l’algorithme de Dijkstra est d’éliminer en permanence
 Noeud A: A ---> B (distance totale = 17) A--->C--->B (distance minimale= 15) Noeud A : A--->B--->D--->E (Distance totale = 24) A--->C--->E (Distance minimale =21) Noeud A: A--->C--->D ( Distance totale= 19) A--->B--->D(Distance minimale=18) Noeud C : C ---> D (distance totale = 9) C --->B --->D (Distance minimale = 6)
 
 
-#Contact
+# Contact
 
 Meriem El oualfi : meriem.eloualfi@gmail.com
 
